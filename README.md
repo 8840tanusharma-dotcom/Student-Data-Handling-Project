@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Performance Data Handling and Analysis System
 # Student Performance Data Handling Project
 
@@ -19,3 +20,7 @@ A Python + Pandas project for analyzing student performance.
 
 ## Author
 Tanu Sharma
+=======
+# Student-Data-Handling-Project
+Python project for student data handling and analysis using Pandas.
+>>>>>>> 9b9d536092c60e021469fde26d61a5ce44281c9a
