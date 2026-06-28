@@ -1,0 +1,15 @@
+Matric,Values
+Total students,1000
+No.of Passed students,951
+No.of Failed students,49
+Highest marks,99.9
+Lowest marks,40.0
+Average marks,69.99137749737118
+Average attendance,75.122
+Grade-wise distribution,"grade
+D    310
+B    251
+C    241
+A    149
+F     49
+Name: count, dtype: int64"
